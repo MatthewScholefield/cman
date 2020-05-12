@@ -1,0 +1,4 @@
+name: example-container
+base_url: https://github.com/ericchiang/containers-from-scratch/releases/download/v0.1.0/rootfs.tar.gz
+base_root: rootfs
+command: 'ps aux'
